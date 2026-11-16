@@ -1,0 +1,14 @@
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.csproj.AssemblyReference.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.GeneratedMSBuildEditorConfig.editorconfig
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.AssemblyInfoInputs.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.AssemblyInfo.cs
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.csproj.CoreCompileInputs.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\bin\Release\net472\SupinePosition.dll
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\obj\Release\net472\SupinePosition.dll
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\bin\Release\net472\SupinePosition.dll
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.csproj.AssemblyReference.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.GeneratedMSBuildEditorConfig.editorconfig
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.AssemblyInfoInputs.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.AssemblyInfo.cs
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.csproj.CoreCompileInputs.cache
+E:\RANDOM BULL\GAMES\TARKOV MOD\Tarkov mod\Supine position\supine position\obj\Release\net472\SupinePosition.dll
